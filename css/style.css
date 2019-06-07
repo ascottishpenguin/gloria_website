@@ -15,7 +15,7 @@ ul{
 }
 
 header{
-	background-image: url(https://ascottishpenguin.github.io/gloria_website/css/back.jpg);
+	background-image: url(back.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	min-height:100%;
